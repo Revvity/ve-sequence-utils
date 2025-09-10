@@ -39,7 +39,7 @@
   "dependencies": {
     "bson-objectid": "^1.1.1",
     "escape-string-regexp": "^1.0.5",
-    "jsondiffpatch": "^0.3.11",
+    "jsondiffpatch": "^0.7.2",
     "string-splice": "^1.3.0"
   },
   "devDependencies": {
